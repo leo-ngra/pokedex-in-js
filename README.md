@@ -8,7 +8,7 @@
 Desenvolver uma plataforma web para listagem e visualização de pokémons, para a construção deste projeto foi usado Javascript. Todos os dados sobre os pokémons como nome, número e imagem, foram possíveis com o uso da API REST PokéApi.
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/107640605/203303533-48fae0f5-5e28-4e7c-8b98-97bec40e2a12.gif"  />
+<a href="https://leo-ngra.github.io/pokedex-in-js/"><img src="https://user-images.githubusercontent.com/107640605/203303533-48fae0f5-5e28-4e7c-8b98-97bec40e2a12.gif"  /></a>
 </div>
 
 ## 🚀 Tecnologias
